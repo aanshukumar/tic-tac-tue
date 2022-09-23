@@ -39,7 +39,7 @@ function checkWinOrLoose() {
     winOrLoose('seven', 'eight', 'nine');
     winOrLoose('one', 'four', 'seven');
     winOrLoose('two', 'five', 'eight');
-    winOrLoose('three', 'sex', 'nine');
+    winOrLoose('three', 'six', 'nine');
     winOrLoose('one', 'five', 'nine');
     winOrLoose('three', 'five', 'seven');
 }
